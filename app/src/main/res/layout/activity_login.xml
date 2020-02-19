@@ -17,7 +17,7 @@
         android:layout_centerHorizontal="true"
         />
 
-    <TextView
+    <EditText
         android:id="@+id/login_phoneNumber_input"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -34,7 +34,7 @@
         android:layout_marginRight="25dp"
         />
 
-    <TextView
+    <EditText
         android:id="@+id/login_password_input"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
