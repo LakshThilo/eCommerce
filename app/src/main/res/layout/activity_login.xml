@@ -12,7 +12,7 @@
         android:id="@+id/login_applogo"
         android:layout_width="300dp"
         android:layout_height="100dp"
-        android:layout_marginTop="220dp"
+        android:layout_marginTop="210dp"
         android:background="@drawable/applogo"
         android:layout_centerHorizontal="true"
         />
